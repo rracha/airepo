@@ -1,4 +1,4 @@
-# Release 1
+# v1.0.0
 
-- Initial release of airepo
+Initial release of airepo.
 - Added helloworld.py
